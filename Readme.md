@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello,%20I'm%20JooYeop&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20I'm%20JooYeop&fontSize=90)
 
 CodeStates - AI_BootCamp(2022.01.18 ~ 2022.08.11)
 
