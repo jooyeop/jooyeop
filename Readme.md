@@ -11,6 +11,12 @@
 <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 
+학력
+
+경기과학기술대학교 자동차과 졸업
+
+국민대학교 기업경영학부 편입졸업
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooyeop&layout=compact)](https://github.com/jooyeop/github-readme-stats)
 
 
