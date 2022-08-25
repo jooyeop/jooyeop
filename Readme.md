@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20I'm%20JooYeop&fontSize=90)
 
 ### CodeStates - AI_BootCamp(2022.01.18 ~ 2022.08.11)
+![코드스테이츠 수료증](https://user-images.githubusercontent.com/97720878/186624024-3bb65ed0-5c10-497f-8a94-edf999db37ba.png)
 ##### Mobile_RPG_Game - Make & Live_Server(2021.01 ~ 2022.02)
 
 ### Main Skills
