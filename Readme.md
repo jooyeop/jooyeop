@@ -14,7 +14,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooyeop&show_icons=true&theme=radical)
 
-### 수료증
 ![코드스테이츠 수료증](https://user-images.githubusercontent.com/97720878/186624024-3bb65ed0-5c10-497f-8a94-edf999db37ba.png)
 
 ##### Mobile_RPG_Game - Make & Live_Server(2021.01 ~ 2022.02)
