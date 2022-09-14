@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Deep_Learning,%20Computer_Vision,%20Object_Detection.&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Deep_Learning,%20Computer_Vision,%20Object_Detection.&fontSize=40)
 
 학력
 
