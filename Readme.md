@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Deep_Learning,%20Computer_Vision&fontSize=45)
 
-학력
+학력 
 
 경기과학기술대학교 자동차과 졸업
 
