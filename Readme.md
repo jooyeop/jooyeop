@@ -24,3 +24,5 @@
 
 
 ##### Mobile_RPG_Game - Make & Live_Server(2021.01 ~ 2022.02)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
