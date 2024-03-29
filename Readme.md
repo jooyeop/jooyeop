@@ -16,7 +16,7 @@
 
 <br>
 
-<h3 align="center">🛠 OS 🛠</h3>
+<h3 align="center">📚 OS 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-007ACC.svg?style=for-the-badge&logo=linux&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Windows-FF4154?style=for-the-badge&logo=react%20windows&logoColor=white" />&nbsp
