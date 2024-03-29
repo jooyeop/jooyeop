@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Pytorch-white.svg?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />&nbsp
-  <img src="https://img.shields.io/badge/openCV-F7DF1E.svg?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />&nbsp
+  <img src="https://img.shields.io/badge/tensorflow-F7DF1E.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />&nbsp
 </div>
 
 <br>
