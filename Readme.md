@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Deep_Learning,%20Computer_Vision&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=AI_Engineer,%20Computer_Vision&fontSize=45)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -39,9 +39,3 @@
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jooyeop&show_icons=true&theme=radical"/>
-
-</div>
