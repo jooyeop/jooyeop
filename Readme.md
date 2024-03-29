@@ -18,7 +18,7 @@
 
 <h3 align="center">📚 OS 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Windows-007ACC.svg?style=for-the-badge&logo=windows&logoColor=white" />&nbsp
 </div>
 
