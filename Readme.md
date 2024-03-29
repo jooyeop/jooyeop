@@ -37,3 +37,7 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 </div>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooyeop&show_icons=true&theme=radical)
