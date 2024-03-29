@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=AI_Engineer,%20Computer_Vision&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=AI_Engineer%20,2023~ING&fontSize=45)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
