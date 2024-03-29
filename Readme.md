@@ -4,7 +4,7 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp
-  <img src="https://img.shields.io/badge/Pytorch-E34F26.svg?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />&nbsp
+  <img src="https://img.shields.io/badge/Pytorch-white.svg?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />&nbsp
   <img src="https://img.shields.io/badge/openCV-F7DF1E.svg?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />&nbsp
 </div>
 
